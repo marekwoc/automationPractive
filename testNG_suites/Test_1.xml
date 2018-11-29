@@ -1,0 +1,10 @@
+<suite name="Test_1">
+<test name = "gotoWomenPage">
+    <classes>
+        <class name = "pl.b2b.net.automationPractice.pages.homePage.TestHomePage"/>
+        <class name = "pl.b2b.net.automationPractice.pages.womenPage.TestWomenPage"/>
+        <class name = "pl.b2b.net.automationPractice.pages.topsPage.TestTopsPage"/>
+    </classes>
+
+</test>
+</suite>
